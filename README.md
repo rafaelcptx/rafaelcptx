@@ -1,5 +1,5 @@
 <h1>Hi! I'm Rafael Teixeira.</h1>
-<p>👨‍💻 Systems Analysis and Development Student at Faeterj-RJ. ⇢ <a href="https://www.linkedin.com/in/rafaelcptx/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>🎨 Graphic Design.</p>
+<p>👨‍💻 Systems Analysis and Development Student at Faeterj-RJ. ⇢ <a href="https://www.linkedin.com/in/rafaelcptx/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>🎨 Graphic Designer.</p>
 <p>✔ HTML-CSS-JavaScript ✔</p>
 <p>Currently learning ReactJs/Redux, Sass, NodeJs/Express and MongoDB/Mongoose at  <a href="https://www.freecodecamp.org/rafaelcptx"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></a> platform.</p>
 
